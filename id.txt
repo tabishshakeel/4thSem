@@ -2,6 +2,13 @@
 #include<fstream>
 #include<iomanip>
 
+//wow bro you are fucking awesome.
+
+// this is it 
+
+// I loved it 
+
+
 using namespace std;
 int main()
 {
